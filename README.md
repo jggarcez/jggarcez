@@ -9,11 +9,11 @@
 
 ### Proficient Technologies
 
-- Learning
+- In process
 
 ### Proficient Frameworks
 
-- Learning
+- In process
 
 ### My Stats
 
