@@ -3,7 +3,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ### Technologies
@@ -15,9 +15,9 @@
 - I'm studying
 
 
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jggarcez&layout=compact&hide=hack,vim,assembly,scilab,elixir&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jggarcez&layout=compact&hide=hack,vim,assembly,scilab,elixir&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=jggarcez&include_all_commits=true&count_private=true&show_icons=true&hide=prs&line_height=24&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=jggarcez&include_all_commits=true&count_private=true&show_icons=true&hide=prs&line_height=24&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social
 
