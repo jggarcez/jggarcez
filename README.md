@@ -1,24 +1,26 @@
-## Bem-vindo(a) ao perfil do Guilherme 😁
+## Welcome 👋
+### Languages
 
- <div>
-   <a href="https://github.com/jggarcez">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jggarcez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jggarcez&layout=compact&langs_count=6&theme=tokyonight"/>
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://img.shields.io/badge/-JavaScript-011627?style=for-the-badge&logo=JavaScript&logoColor=ddc508"
-</div>
- 
- <br>
- 
-  ### Redes Sociais!
- 
-<div> 
-  <a href="https://instagram.com/jggarcez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jggarcez12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-garcez-930711125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
+### Technologies
+
+- I'm studying
+
+### Frameworks
+
+- I'm studying
+
+
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jggarcez&layout=compact&hide=hack,vim,assembly,scilab,elixir&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=jggarcez&include_all_commits=true&count_private=true&show_icons=true&hide=prs&line_height=24&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+## Social
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jggarcez)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jggarcez12@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-garcez-930711125/)
